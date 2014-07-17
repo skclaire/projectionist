@@ -1,0 +1,21 @@
+h6 {color: #5d8b01;
+	font-weight: bold;}
+
+p {font-family: inherit, sans-serif;
+   font-size: 13px;
+   font-weight: lighter}
+
+hr {border-color: #adbfce;
+    margin: 12px auto 18px}
+
+#director-img {margin: 3px 10px 0 0;
+	 		   width: 108px;}
+
+#footer {text-align: center;
+		 font-family: inherit, sans-serif;
+   		 font-size: 13px;
+   		 font-weight: lighter}
+
+#navbar {text-align: right;
+		 color: white;
+		 font-weight: lighter;}
